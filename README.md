@@ -1,17 +1,6 @@
-<h1 align="center">Hi, I'm Fatma Ouertani 👋</h1>
+<h1 align="center">Hi, I'm Fatma Ouertani 👋</h1> <h3 align="center">AI & DevOps Automation Engineer · Business Intelligence</h3> <p align="center"> Final-year Software Engineer @ ESPRIT — specialized in Artificial Intelligence & Business Intelligence.<br/> I build multi-agent AI systems that automate real engineering workflows: DevOps pipelines, incident analysis, and GeoAI decision tools. </p> <p align="center"> <a href="mailto:fatma.ouertani@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/www.linkedin.com/in/fatma-ouertani-919891240
 
-<h3 align="center">AI & DevOps Automation Engineer · Business Intelligence</h3>
-
-<p align="center">
-  Final-year Software Engineer @ ESPRIT — specialized in Artificial Intelligence & Business Intelligence.<br/>
-  I build multi-agent AI systems that automate real engineering workflows: DevOps pipelines, incident analysis, and GeoAI decision tools.
-</p>
-
-<p align="center">
-  <a href="mailto:fatma.ouertani@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/fatma-ouertani-919891240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Tunis,_Tunisia-black?style=flat&logo=googlemaps&logoColor=white"/>
-</p>
+"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tunis,_Tunisia-black?style=flat&logo=googlemaps&logoColor=white"/> </p>
 
 ---
 
